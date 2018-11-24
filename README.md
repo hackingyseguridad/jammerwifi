@@ -15,5 +15,10 @@ chmod 777 jammer.sh
 
 Uso.: sh jammer.sh <MAC_AP_OBJETIVO>
 
+# Desconexiones Wifi
+
+Uso.: sh desconexiones.sh <MAC_AP_OBJETIVO> 
+
+Ataque a Punto de acceso Wifi con paradas cada 2 minutos para forzar reconexiones y aprovechar para capturar credenciales
 
 www.hackingyseguridad.com
