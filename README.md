@@ -15,3 +15,5 @@ chmod 777 jammer.sh
 
 Uso.: sh jammer.sh <MAC_AP_OBJETIVO>
 
+
+www.hackingyseguridad.com
