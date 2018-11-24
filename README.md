@@ -1,29 +1,17 @@
 <img style="float:left" alt="netspy logo" src="https://github.com/hackingyseguridad/jammerwifi/blob/master/jammer.png">
 
-# netspy
-
-# 1.- Descubre elementos de red 2.- Captura y muestra en pantalla el trafico.
+# Jammer Wifi
+# Ataque de denegacion de servicio a Punto de acceso Wifi con jammer.sh.
 
 # Instalacion:
 
-apt-get install bettercap
+git clone https://github.com/hackingyseguridad/jammerwifi
 
-apt-get install netdiscover
+cd jammerwifi
 
-git clone https://github.com/hackingyseguridad/netspy
-
-cd netspy
-
-chmod 777 netspy
+chmod 777 jammer.sh
 
 # Uso.:
 
-sh netspy
+Uso.: sh jammer.sh <MAC_AP_OBJETIVO>
 
-sh proxynetspy
-
-netdiscover
-
-IMPORTANTE: Para salir del modo de descubrimiento 'net probe on' y empezar a esnifar teclea 'exit'.
-
-# Bettercap v2.9
